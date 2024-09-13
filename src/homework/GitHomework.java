@@ -16,7 +16,7 @@ public class GitHomework {
 	}
 	
 	public static void add1(int f, int g) {
-		System.out.println(f+ g);
+		System.out.println(f + g);
 	}
 
 }
